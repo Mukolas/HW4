@@ -117,13 +117,20 @@
 //     document.write("step number: "+i+" ");
 // }
 //
-//Zavdannya15-17
+//Zavdannya15
 //
-// for(i=0;i<=100;i=i+2){
+// for(i=0;i<200;i=i+2){
 //     console.log('step nubber: '+i);
 //     document.write("step number: "+i+" ");
 // }
 //
+//Zavdannya 16-17
+// for(i=0;i<100;i++){
+//     if(i%2==0){
+//     console.log('step nubber: '+i);
+//     document.write("step number: "+i+"<br>");
+//     }
+// }
 //Zavdannya18
 //
 // for(i=1;i<=100;i=i+2){
