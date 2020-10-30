@@ -105,7 +105,7 @@
 //
 //Zavdannya13
 //
-// for(i=0;i<10;i++){
+// for(let i=0;i<10;i++){
 //     console.log('step nubber: '+i);
 //     document.write("step number: "+i+" ");
 // }
@@ -140,21 +140,21 @@
 //
 //Zavdannya19
 //
-// for(m=0;m<=2;m++){
-//     for(s=0;s<60;s++){
+// for(let m=0;m<=2;m++){
+//     for(let s=0;s<60;s++){
 //         document.write(' Zaraz: '+m+' hvylyna ta '+s+' secunda.'+'<br>');
 //     }    
 // }
 //
 //Zavdannya20(Зробив цікавіше)
 //
-// for(h=0;h<24;h++){
-// for(m=0;m<60;m++){
+// for(let h=0;h<24;h++){
+// for(let m=0;m<60;m++){
 //     document.write(h+':'+m+'<br>');
 //     if(h==2&&m==20){
 //         document.write('<h1>'+'Proyshlo '+h+' godyny ta '+m+' hvylyn'+'</h1>');
 //     }
-//     for(s=0;s<=60;s++){
+//     for(let s=0;s<=60;s++){
 //     }
     
 // }
